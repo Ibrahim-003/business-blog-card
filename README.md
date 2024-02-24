@@ -11,7 +11,7 @@ This project is a minimalist card component for displaying blog or article infor
 
 ## Demo
 
-You can see a demonstration of the application in action [Business-Blog-Card](https://ibrahim-003.github.io/minimal-blog-card/).
+You can see a demonstration of the application in action [Business-Blog-Card](https://ibrahim-003.github.io/business-blog-card/).
 
 ## Capturas de Pantalla
 
